@@ -1,0 +1,23 @@
+/*02 class id selector exercise*/
+
+/*odd number elements*/
+
+p {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: hsl(351, 100%, 86%);
+}
+
+#blue-text {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.p-bfont {
+    font-size: 24px;
+}
+
+#lt-green {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
